@@ -4,5 +4,3 @@
 ✔ BaekJoon Online Judge
 
 ✔ C++
-
-✔ 
