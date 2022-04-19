@@ -1,7 +1,6 @@
 // author: yuhyeon0809
-// #2670
-// 연속부분 최대곱
-
+// #2670 연속부분 최대곱
+// url : https://www.acmicpc.net/problem/2670
 #include <iostream>
 #include <algorithm>
 using namespace std;

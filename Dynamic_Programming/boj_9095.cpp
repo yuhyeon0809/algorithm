@@ -1,4 +1,6 @@
-// 1,2,3 더하기
+// author : yuhyeon0809
+// #9095 1,2,3 더하기
+// url : https://www.acmicpc.net/problem/9095
 #include <iostream>
 using namespace std;
 

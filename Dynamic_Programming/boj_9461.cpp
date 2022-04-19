@@ -1,4 +1,6 @@
-// 파도반 수열
+// author : yuhyeon0809
+// #9461 파도반 수열
+// url : https://www.acmicpc.net/problem/9461
 #include <iostream>
 using namespace std;
 

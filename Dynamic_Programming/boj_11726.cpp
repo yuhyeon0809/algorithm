@@ -1,4 +1,6 @@
-// 2xn 타일링
+// author : yuhyeon0809
+// # 11726 2xn 타일링
+// url : https://www.acmicpc.net/problem/11726
 #include <iostream>
 using namespace std;
 

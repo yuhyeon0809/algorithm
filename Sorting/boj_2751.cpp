@@ -1,4 +1,6 @@
-// 수 정렬하기 2
+// author : yuhyeon0809
+// problem : #2751 수 정렬하기 2
+// url : https://www.acmicpc.net/problem/2751
 #include <iostream>
 #include <vector>
 #include <algorithm>
